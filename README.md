@@ -105,9 +105,9 @@ git clone https://github.com/BrightonSibs/missouri-care-gap-market-analysis.git
 cd missouri-care-gap-market-analysis
 ```
 
-Create and activate a virtual environment:
+Create and activate a virtual environment on Windows:
 
-```bash
+```powershell
 python -m venv .venv
 .venv\Scripts\activate
 ```
