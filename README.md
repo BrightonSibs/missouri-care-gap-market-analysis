@@ -173,20 +173,6 @@ jupyter notebook
 - Jupyter Notebook
 - Power BI
 
-## LinkedIn Project Link
-
-Repository URL:
-
-```text
-https://github.com/BrightonSibs/missouri-care-gap-market-analysis
-```
-
-Suggested LinkedIn project description:
-
-```text
-Built a healthcare analytics project analyzing Missouri care coordination gaps, SDOH vulnerability, FQHC access, and avoidable cost risk using Python, Power BI, and public health datasets. Developed county-level and St. Louis ZIP-level prioritization models, dashboard-ready datasets, Power BI visuals, and intervention savings estimates. No PHI or patient-level data used.
-```
-
 ## Project Status
 
 This repository contains the completed analysis artifacts, dashboard-ready datasets, visual outputs, methodology documentation, and Power BI dashboard for the Missouri care gap market analysis.
